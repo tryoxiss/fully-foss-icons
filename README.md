@@ -1,3 +1,6 @@
+> **Important**
+> This repoistory has migrated to codeberg at [tryoxiss/public-icons](https://codeberg.org/tryoxiss/public-icons)
+
 # fully-foss-icons
 Public domain icons for the world to use. 
 
